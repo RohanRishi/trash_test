@@ -1,1 +1,3 @@
 magic
+
+this sentence appears on branch b2 only.
